@@ -1,0 +1,18 @@
+.buttonss {
+  margin-top: 50px;
+}
+
+.button-number {
+  width: 50px;
+  height: 50px;
+}
+
+@media only screen and (max-width: 376px) {
+  .buttonss {
+    margin-top: 150px;
+  }
+
+  .questions-section {
+    margin-top: 50px;
+  }
+}
